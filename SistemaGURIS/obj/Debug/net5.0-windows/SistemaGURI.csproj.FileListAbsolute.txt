@@ -1,0 +1,9 @@
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.csprojAssemblyReference.cache
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURIS.Form1.resources
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.Properties.Resources.resources
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.View.FormUsuarios.resources
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.csproj.GenerateResource.cache
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.AssemblyInfoInputs.cache
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.AssemblyInfo.cs
+C:\Users\TEMP.LABFIES.001\Documents\GitHub\Windows-Forms\SistemaGURIS\obj\Debug\net5.0-windows\SistemaGURI.csproj.CoreCompileInputs.cache

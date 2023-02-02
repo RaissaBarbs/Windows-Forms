@@ -489,11 +489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
-      "projectName": "SisJuridico",
-      "projectPath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
+      "projectUniqueName": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SistemaGURIS\\SistemaGURI.csproj",
+      "projectName": "SistemaGURI",
+      "projectPath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SistemaGURIS\\SistemaGURI.csproj",
       "packagesPath": "C:\\Users\\TEMP.LABFIES.001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\obj\\",
+      "outputPath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SistemaGURIS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

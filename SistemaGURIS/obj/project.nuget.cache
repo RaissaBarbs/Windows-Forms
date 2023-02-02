@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cybhjC44blSosxQGXO8sOI2FSdfCpupqevvB6iOPTR3oWdG1uvAsiVy6OZw2ojnw/ADxAFz9vRHqBaAvEQHnjg==",
+  "dgSpecHash": "pm9xp5MIpoXYAkqV54tweppQ8d5L8AIBLs0vIhXhb2vXttl868etDnvgkvjDxXETVtLIimxqg0zY0s+ah+vRiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
+  "projectFilePath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SistemaGURIS\\SistemaGURI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TEMP.LABFIES.001\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\TEMP.LABFIES.001\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
