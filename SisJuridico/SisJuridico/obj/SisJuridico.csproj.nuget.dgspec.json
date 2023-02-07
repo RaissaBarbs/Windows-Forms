@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj": {}
+    "C:\\Users\\TEMP.LABFIES.002\\Documents\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj": {
+    "C:\\Users\\TEMP.LABFIES.002\\Documents\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
+        "projectUniqueName": "C:\\Users\\TEMP.LABFIES.002\\Documents\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
         "projectName": "SisJuridico",
-        "projectPath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
-        "packagesPath": "C:\\Users\\TEMP.LABFIES.001\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TEMP.LABFIES.001\\Documents\\GitHub\\Windows-Forms\\SisJuridico\\SisJuridico\\obj\\",
+        "projectPath": "C:\\Users\\TEMP.LABFIES.002\\Documents\\Windows-Forms\\SisJuridico\\SisJuridico\\SisJuridico.csproj",
+        "packagesPath": "C:\\Users\\TEMP.LABFIES.002\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEMP.LABFIES.002\\Documents\\Windows-Forms\\SisJuridico\\SisJuridico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\TEMP.LABFIES.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TEMP.LABFIES.002\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -45,16 +45,6 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.0.123, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

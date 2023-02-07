@@ -24,3 +24,21 @@ C:\Users\TEMP.LABFIES.000\Documents\raissa github\Windows-Forms\SisJuridico\SisJ
 C:\Users\TEMP.LABFIES.000\Documents\raissa github\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\ref\SisJuridico.dll
 C:\Users\TEMP.LABFIES.000\Documents\raissa github\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.pdb
 C:\Users\TEMP.LABFIES.000\Documents\raissa github\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.genruntimeconfig.cache
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\SisJuridico.exe
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\SisJuridico.deps.json
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\SisJuridico.runtimeconfig.json
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\SisJuridico.runtimeconfig.dev.json
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\SisJuridico.dll
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\ref\SisJuridico.dll
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\bin\Debug\net5.0-windows\SisJuridico.pdb
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.csprojAssemblyReference.cache
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.Form1.resources
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.csproj.GenerateResource.cache
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.AssemblyInfoInputs.cache
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.AssemblyInfo.cs
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.dll
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\ref\SisJuridico.dll
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.pdb
+C:\Users\TEMP.LABFIES.002\Documents\Windows-Forms\SisJuridico\SisJuridico\obj\Debug\net5.0-windows\SisJuridico.genruntimeconfig.cache
