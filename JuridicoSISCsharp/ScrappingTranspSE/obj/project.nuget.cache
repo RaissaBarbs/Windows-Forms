@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzpnADxUqZ8tX2lbD5DJUN2DwE+gwA38g9k5up4FzD5nG6PQIN5N9roAcvG4SpqB2QPekWO7L6Dk0b5Tq214YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\android\\Documents\\JuridicoSISCsharp\\ScrappingTranspSE\\ScrappingTranspSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\android\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
